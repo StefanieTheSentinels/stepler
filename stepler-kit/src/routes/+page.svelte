@@ -35,10 +35,10 @@
       </svg>
     </div>
   </div>
-  <div class="rounded-3xl bg-[#f1f3f2] px-8 py-6 text-[#1f2b28]">Элемент 3</div>
+  <div class="rounded-3xl bg-black px-8 py-6 text-green-50">Элемент 3</div>
 </div>
 
 <div class="grid gap-6">
-  <div class="rounded-3xl bg-[#f1f3f2] px-8 py-6 text-[#1f2b28]">Элемент 1</div>
-  <div class="rounded-3xl bg-[#f1f3f2] px-8 py-6 text-[#1f2b28]">Элемент 2</div>
+  <div class="rounded-3xl bg-black px-8 py-6 text-green-50">Элемент 1</div>
+  <div class="rounded-3xl bg-black px-8 py-6 text-green-50">Элемент 2</div>
 </div>
