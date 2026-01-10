@@ -18,7 +18,7 @@
           <div class="font-bold leading-[1.78]">
             © <span class="font-normal">2024-2025 Все права защищены</span>
           </div>
-          <a class="inline-flex leading-[1.05] underline underline-offset-4 hover:opacity-80" href="/">
+          <a class="inline-flex leading-[1.05] hover:underline hover:underline-offset-4" href="/">
             Политика обработки персональных данных
           </a>
         </div>
@@ -36,8 +36,8 @@
         <div class="flex flex-col gap-4 text-[14px] leading-[1.78]">
           <div class="font-semibold text-[#4A4A4A]">Контакты:</div>
           <div class="flex flex-col gap-2">
-            <a class="underline underline-offset-4 hover:opacity-80" href="/">Почта</a>
-            <a class="underline underline-offset-4 hover:opacity-80" href="/">Номер телефона</a>
+            <a class="hover:underline hover:underline-offset-4" href="/">Почта</a>
+            <a class="hover:underline hover:underline-offset-4" href="/">Номер телефона</a>
             <div>+7 499 213 05 37</div>
           </div>
         </div>
